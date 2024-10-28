@@ -1,6 +1,6 @@
 pickle
 streamlit
-spotipy
+spotipy == 2.20.0
 pandas
 nltk
 sklearn
